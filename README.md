@@ -1,6 +1,6 @@
 # 🎉 Demo Python Poetry
 
-Python packaging and dependency management made easy
+Poetry is a package and dependency management tool for Python that aims to simplify the process of managing and publishing Python projects. It offers features such as dependency management, virtual environment management, and package publishing to PyPI.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
