@@ -15,7 +15,7 @@ Poetry is a package and dependency management tool for Python that aims to simpl
 docker-compose up -d
 ```
 
-### 🚀 Poetry
+### 🚀 Setup
 
 ```shell
 poetry init
