@@ -6,7 +6,7 @@ Poetry is a package and dependency management tool for Python that aims to simpl
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🥈 Run
+### 🏆 Run
 
 - [http://localhost:8000/docs](http://localhost:8000/docs)
 - [http://localhost:8000/subapi/docs](http://localhost:8000/subapi/docs)
@@ -15,7 +15,7 @@ Poetry is a package and dependency management tool for Python that aims to simpl
 docker-compose up -d
 ```
 
-### 🎁 Poetry
+### 🚀 Poetry
 
 ```shell
 poetry init
